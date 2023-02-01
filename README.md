@@ -1,5 +1,5 @@
 # # 💫 About Me:
-🔭 I’m currently starting my Journey toward data analysis<br>👯 I’m looking for an opportunity as Data Analyst<br>🌱 I’m currently learning Python
+🔭 I’m currently starting my Journey toward data analysis<br>👯 I’m looking for an opportunity as Data Analyst<br>🌱 I’m currently working on data analysis projects and preparing to pass certificats
 
 
 # 💻 Tech Stack:
